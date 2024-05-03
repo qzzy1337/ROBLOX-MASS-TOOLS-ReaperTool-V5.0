@@ -1,0 +1,8 @@
+aiohttp 
+rgbprint
+requests
+pillow
+psutil
+pywin32
+pycryptodome
+cryptography
