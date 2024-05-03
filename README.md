@@ -1,13 +1,19 @@
-# Roblox-Reaper-Tool
+# Reaper Tool v5.0
+## Next update at 15 ⭐
+- Mass Steal + Upload clothes
+- Mass create gamepasses
+- Spams a user inbox messages
+- Randomize Avatar
+- More informations in 'Display Cookie Info'
+- More features to Account Nuker
+- Group Info Checker
+
 ### Setup
-
-1. run installer + runner.bat
-2. Open settings.json
-3. Put the roblox account cookie in there
-4. If the cookie is from someone else, Change `Bypass` to `true`
-5. Install the packages in requirements.txt if you don't have them
-6. Run main.py
-
+1. Open settings.json
+2. Put the roblox account cookie in there
+3. If the cookie is from someone else, Change `Bypass` to `true`
+4. Install the packages in requirements.txt if you don't have them
+5. Run main.py
 ### Features:
 - [x] - **Display Cookie Info**
   - [x] - **Display Birthday**
@@ -40,10 +46,10 @@
 - [x] - **More soon** 
 
 ## Preview:
-![image](https://media.discordapp.net/attachments/1227749029988012082/1236028393217196052/image.png?ex=663684a5&is=66353325&hm=8537d9edf8c57e6d95cf6926a8bbff858595d70c8464cc27515b4e1d05984753&=&format=webp&quality=lossless)
+![image](https://cdn.discordapp.com/attachments/1227749029988012082/1236028393217196052/image.png?ex=663684a5&is=66353325&hm=8537d9edf8c57e6d95cf6926a8bbff858595d70c8464cc27515b4e1d05984753&)
 
 ## ⭐
 - If you like the tool please star the repo 😊
 
 ## Help
-If you need help or want to report an error join the [Discord](https://discord.gg/kUPK8n3x)
+If you need help or want to report an error join the [Discord](https://discord.gg/PHU2gBhvga)
