@@ -1,12 +1,12 @@
-# Reaper Tool v5.0
-## Next update at 15 ⭐
-- Mass Steal + Upload clothes
-- Mass create gamepasses
-- Spams a user inbox messages
-- Randomize Avatar
-- More informations in 'Display Cookie Info'
-- More features to Account Nuker
-- Group Info Checker
+# Roblox-Reaper-Tool
+
+    -- NEXT UPDATE: --
+
+- Save progress for Pin Cracker
+- Multi-Cookies for all tools
+- Mass delete fits
+- Mass create fits
+- Suggest ideas that you would like in the tool
 
 ### Setup
 1. Open settings.json
@@ -45,11 +45,12 @@
   - [x] - **Changes Assets Template**
 - [x] - **More soon** 
 
+
 ## Preview:
-![image](https://cdn.discordapp.com/attachments/1227749029988012082/1236028393217196052/image.png?ex=663684a5&is=66353325&hm=8537d9edf8c57e6d95cf6926a8bbff858595d70c8464cc27515b4e1d05984753&)
+![image](https://media.discordapp.net/attachments/1227749029988012082/1236028393217196052/image.png?ex=663684a5&is=66353325&hm=8537d9edf8c57e6d95cf6926a8bbff858595d70c8464cc27515b4e1d05984753&=&format=webp&quality=lossless)
 
 ## ⭐
 - If you like the tool please star the repo 😊
 
 ## Help
-If you need help or want to report an error join the [Discord](https://discord.gg/PHU2gBhvga)
+If you need help or want to report an error join the [Discord](https://discord.gg/kUPK8n3x)
